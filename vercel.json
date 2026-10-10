@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/ollama/:path*", "destination": "https://ollama.com/:path*" }
+  ]
+}
